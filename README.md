@@ -9,19 +9,19 @@ The goal of this challenge is to accelerate the development of more accurate, re
 Better performing and responsibly used AI systems can provide more accurate, faster, and lower-cost approaches to assessing risk and protecting lives and property.
 
 Setup: 
-CNN: U-NET
-Pre-trained Model: ResNet34
-Python, fastAI
-Envirnoment: Google Colab
+CNN: U-NET,
+Pre-trained Model: ResNet34,
+Python, fastAI ,
+Envirnoment: Google Colab,
 
 Metrics-Losses:
-Jaccard Index (IoU)
-Pixel Accuracy
-Cross Entropy Loss
-Dice Loss
+Jaccard Index (IoU),
+Pixel Accuracy,
+Cross Entropy Loss,
+Dice Loss,
 
 LeaderBoard:
-Team Name: Night Owls
-Rank: 53
-Competitors: 1106
-Score: 0.6750
+Team Name: Night Owls,
+Rank: 53,
+Competitors: 1106,
+Score: 0.6750,
