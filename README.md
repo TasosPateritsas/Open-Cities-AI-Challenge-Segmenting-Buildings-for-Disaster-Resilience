@@ -8,7 +8,7 @@ The goal of this challenge is to accelerate the development of more accurate, re
 
 Better performing and responsibly used AI systems can provide more accurate, faster, and lower-cost approaches to assessing risk and protecting lives and property.
 
-Setup:
+Setup: 
 CNN: U-NET
 Pre-trained Model: ResNet34
 Python, fastAI
